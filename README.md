@@ -1,4 +1,4 @@
 # First-Demo
 This is my first repository.
 <br>
-Author - Vinayaka
+Author - Vinayaka (H G)
